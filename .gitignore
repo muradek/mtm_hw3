@@ -1,3 +1,5 @@
 tests/
 test.py
 study.py
+lines.txt
+output_file.txt
